@@ -1,0 +1,25 @@
+{
+    "alternatives": ["Alternative 1", "Alternative 2", "Alternative 3"],
+    "Goal": {
+        "matrix": ["3x3"],
+        "Criterion 1": {
+            "matrix": ["4x4"],
+            "Sub-criterion 1": ["3x3"],
+            "Sub-criterion 2": ["3x3"],
+            "Sub-criterion 3": ["3x3"],
+            "Sub-criterion 4": ["3x3"]
+        },
+        "Criterion 2": {
+            "matrix": ["3x3"],
+            "Sub-criterion 4": ["3x3"],
+            "Sub-criterion 5": ["3x3"],
+            "Sub-criterion 6": ["3x3"]
+        },
+        "Criterion 3": {
+            "matrix": ["3x3"],
+            "Sub-criterion 7": ["3x3"],
+            "Sub-criterion 8": ["3x3"],
+            "Sub-criterion 9": ["3x3"]
+        }
+    }
+}
