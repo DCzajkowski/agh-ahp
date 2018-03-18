@@ -50,5 +50,8 @@ Example:
 [1, 2, 3, 4, 5, 6, 7, 8, 9]
 ```
 
-## Questions?
+# Contributing
+I have created my implementation of a parser in JavaScript. Feel free, to make PRs with other technologies or directly to my code :)
+
+# Questions?
 Get in touch: [@CzajkowskiDarek](https://twitter.com/CzajkowskiDarek)
