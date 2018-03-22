@@ -1,25 +1,25 @@
 {
     "alternatives": ["Alternative 1", "Alternative 2", "Alternative 3"],
     "Goal": {
-        "matrix": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "matrix": [1, 0, 0, 0, 1, 0, 0, 0, 1],
         "Criterion 1": {
-            "matrix": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-            "Sub-criterion 1": [0, 0, 0, 0, 0, 0, 0, 0, 0],
-            "Sub-criterion 2": [0, 0, 0, 0, 0, 0, 0, 0, 0],
-            "Sub-criterion 3": [0, 0, 0, 0, 0, 0, 0, 0, 0],
-            "Sub-criterion 4": [0, 0, 0, 0, 0, 0, 0, 0, 0]
+            "matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+            "Sub-criterion 1": [1, 0, 0, 0, 1, 0, 0, 0, 1],
+            "Sub-criterion 2": [1, 0, 0, 0, 1, 0, 0, 0, 1],
+            "Sub-criterion 3": [1, 0, 0, 0, 1, 0, 0, 0, 1],
+            "Sub-criterion 4": [1, 0, 0, 0, 1, 0, 0, 0, 1]
         },
         "Criterion 2": {
-            "matrix": [0, 0, 0, 0, 0, 0, 0, 0, 0],
-            "Sub-criterion 4": [0, 0, 0, 0, 0, 0, 0, 0, 0],
-            "Sub-criterion 5": [0, 0, 0, 0, 0, 0, 0, 0, 0],
-            "Sub-criterion 6": [0, 0, 0, 0, 0, 0, 0, 0, 0]
+            "matrix": [1, 0, 0, 0, 1, 0, 0, 0, 1],
+            "Sub-criterion 4": [1, 0, 0, 0, 1, 0, 0, 0, 1],
+            "Sub-criterion 5": [1, 0, 0, 0, 1, 0, 0, 0, 1],
+            "Sub-criterion 6": [1, 0, 0, 0, 1, 0, 0, 0, 1]
         },
         "Criterion 3": {
-            "matrix": [0, 0, 0, 0, 0, 0, 0, 0, 0],
-            "Sub-criterion 7": [0, 0, 0, 0, 0, 0, 0, 0, 0],
-            "Sub-criterion 8": [0, 0, 0, 0, 0, 0, 0, 0, 0],
-            "Sub-criterion 9": [0, 0, 0, 0, 0, 0, 0, 0, 0]
+            "matrix": [1, 0, 0, 0, 1, 0, 0, 0, 1],
+            "Sub-criterion 7": [1, 0, 0, 0, 1, 0, 0, 0, 1],
+            "Sub-criterion 8": [1, 0, 0, 0, 1, 0, 0, 0, 1],
+            "Sub-criterion 9": [1, 0, 0, 0, 1, 0, 0, 0, 1]
         }
     }
 }
