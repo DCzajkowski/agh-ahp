@@ -14,7 +14,7 @@ The Goal defines either an object or an array. If object is used, it means there
 ```python
 {
     "alternatives": ["Alternative 1", "Alternative 2"],
-    "User-defined Goal": [1, 2, 0.5, 1] # matrix comparing Alternative 1 to Alternative 2 without any citerias
+    "User-defined Goal": [1, 2, 0.5, 1] # matrix comparing Alternative 1 to Alternative 2 without any criteria
 }
 ```
 
